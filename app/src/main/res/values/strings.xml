@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Registro Vehículos</string>
+
+    <!-- EditText hints -->
+    <string name="hint_placa">Placa</string>
+    <string name="hint_marca">Marca</string>
+    <string name="hint_color">Color</string>
+
+    <!-- Botones -->
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_listar">Listar</string>
+
+    <!-- Mensajes -->
+    <string name="msg_registrado">Vehículo registrado</string>
+    <string name="msg_error_registro">Error al registrar</string>
+    <string name="msg_encontrado">Vehículo encontrado</string>
+    <string name="msg_no_encontrado">No encontrado</string>
+    <string name="msg_actualizado">Vehículo actualizado</string>
+    <string name="msg_error_actualizar">Error al actualizar</string>
+    <string name="msg_eliminado">Vehículo eliminado</string>
+    <string name="msg_error_eliminar">No se pudo eliminar</string>
+</resources>
